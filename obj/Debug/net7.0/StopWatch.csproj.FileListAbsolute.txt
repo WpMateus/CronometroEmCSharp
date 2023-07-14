@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\StopWatch\bin\Debug\net7.0\StopWatch.exe
+C:\Users\mateu\Documents\StopWatch\bin\Debug\net7.0\StopWatch.deps.json
+C:\Users\mateu\Documents\StopWatch\bin\Debug\net7.0\StopWatch.runtimeconfig.json
+C:\Users\mateu\Documents\StopWatch\bin\Debug\net7.0\StopWatch.dll
+C:\Users\mateu\Documents\StopWatch\bin\Debug\net7.0\StopWatch.pdb
+C:\Users\mateu\Documents\StopWatch\obj\Debug\net7.0\StopWatch.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\StopWatch\obj\Debug\net7.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\StopWatch\obj\Debug\net7.0\StopWatch.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\StopWatch\obj\Debug\net7.0\StopWatch.AssemblyInfo.cs
+C:\Users\mateu\Documents\StopWatch\obj\Debug\net7.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\StopWatch\obj\Debug\net7.0\StopWatch.dll
+C:\Users\mateu\Documents\StopWatch\obj\Debug\net7.0\refint\StopWatch.dll
+C:\Users\mateu\Documents\StopWatch\obj\Debug\net7.0\StopWatch.pdb
+C:\Users\mateu\Documents\StopWatch\obj\Debug\net7.0\StopWatch.genruntimeconfig.cache
+C:\Users\mateu\Documents\StopWatch\obj\Debug\net7.0\ref\StopWatch.dll
